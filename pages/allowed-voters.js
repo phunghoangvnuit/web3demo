@@ -1,7 +1,7 @@
 import React from "react";
 
-const allowdVoters = () => {
+const allowedVoters = () => {
   return <div>allowdVoters</div>;
 };
 
-export default allowdVoters;
+export default allowedVoters;
